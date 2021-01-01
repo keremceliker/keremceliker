@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Chess** and **Extreme Sports** and **DevOps/Linux Coding**
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremceliker&layout=compact&theme=algolia" alt="Kerem Celiker's github stats" />
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=keremceliker&show_icons=true&theme=algolia&count_private=true" alt="Kerem Celiker's github stats" />
