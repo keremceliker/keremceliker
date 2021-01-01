@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **SEKOM & SOITRON, s.r.o**
-- 🌱 I’m currently learning **Containers/HCI & DevOps-ish** 
+- 🌱 I’m currently learning **Containers/HCI & SRE & DevOps-ish** 
 - 💬 Ask me about **everything I know** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
 - 😄 Pronouns: **He/Him/His**
