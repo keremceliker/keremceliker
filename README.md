@@ -1,4 +1,4 @@
-### Hi There I'm Kerem Çeliker 👋
+### Hi There I'm `Kerem Çeliker` 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-@CloudRss-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cloudRss)](https://twitter.com/cloudRss) 
 [![Linkedin Badge](https://img.shields.io/badge/-KeremCeliker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keremceliker/)](https://www.linkedin.com/in/keremceliker/) 
