@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **Chess** and **Extreme Sports** and **DevOps/Linux Coding**
 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremceliker&layout=compact&theme=algolia" alt="Kerem Celiker's github stats" />
