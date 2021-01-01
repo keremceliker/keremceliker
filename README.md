@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at **SEKOM & SOITRON, s.r.o** as a SRE/DevOps
+- 🔭 I’m currently working at **SEKOM & SOITRON, s.r.o** as a **SRE/DevOps**
 - 🌱 I’m currently learning **Containers & SRE/DevOps-ish** 
 - 💬 Ask me about **everything I know** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
