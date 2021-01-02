@@ -8,7 +8,7 @@
 [![Wordpress Badge](https://img.shields.io/badge/-@KeremCelikerBlog-000000?style=flat-square&labelColor=000000&logo=Wordpress&link=http://www.keremceliker.com/)](http://www.keremceliker.com/)
 
 
-Here are some ideas to get you started:
+Here are some ideas about myself :)
 
 - 🔭 I’m currently working at **SEKOM & SOITRON, s.r.o** as a **SRE/DevOps**
 - 🌱 I’m currently learning **Containers & SRE/DevOps-ish** 
