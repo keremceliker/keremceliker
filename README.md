@@ -10,8 +10,8 @@
 
 Here are some ideas about myself :)
 
-- 🔭 I’m currently working at **NETAŞ Telecommunication** as a **SRE/DevOps**
-- 🌱 I’m currently learning **Cloud Core (PaaS) & Containers & SRE/DevOps-ish** 
+- 🔭 I’m currently working at **NETAŞ Telecommunication** as a **Cloud Core Platforms Delivery Manager**
+- 🌱 I’m currently learning **Cloud Core (PaaS) & OpenStack,NFV - Containers & SRE/DevOps-ish** 
 - 💬 Ask me about **everything I know** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
 - 😄 Pronouns: **He/Him/His**
