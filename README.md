@@ -11,7 +11,7 @@
 Here are some ideas about myself :)
 
 - 🔭 I’m currently working at **KYNDRYL | IBM Global Technology Services Inc.** as a **Principal Cloud Architect**
-- 🌱 I’m currently learning **Cloud Core (PaaS) & Openshift, Kubernetes, OpenStack,NFV - Containers & SRE/DevOps-ish** 
+- 🌱 I’m currently learning **Cloud Core (PaaS) & Openshift, Kubernetes, OpenStack,NFV - Linux-ish, Containers & SRE/DevOps-ish** 
 - 💬 Ask me about **everything I know** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
 - 😄 Pronouns: **He/Him/His**
