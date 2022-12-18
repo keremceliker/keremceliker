@@ -15,7 +15,7 @@ Here are some ideas about myself :)
 - 💬 Ask me about **everything I know** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **Chess**,**Extreme Sports** and **DevOps/Linux Coding**
+- ⚡ Fun fact: **Chess**,**Extreme Sports** and **DevOps/Ansible,Bash,Linux Coding**
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremceliker&layout=compact&theme=algolia" alt="Kerem Celiker's github stats" />
 
