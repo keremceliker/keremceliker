@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://www.cerebro.fit/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg" />
+<img align="right" width="400" src="https://cutt.ly/h0Y7vef" />
 
 ### Hi There, I'm `Kerem Çeliker` 👋
 
