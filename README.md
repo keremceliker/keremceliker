@@ -10,7 +10,7 @@
 
 Here are some ideas about myself :)
 
-- 🔭 I’m currently working at **KYNDRYL Global Technical Services Inc.(ex-IBM GTS)** as a **Principal Cloud Architect**
+- 🔭 I’m currently working at **KYNDRYL (ex-IBM GTS) Global Technical Services Inc.** as a **Principal Cloud Architect**
 - 🌱 I’m currently learning **Cloud Core (PaaS) & OpenStack,NFV - Containers & SRE/DevOps-ish** 
 - 💬 Ask me about **everything I know** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
