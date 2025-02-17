@@ -10,12 +10,12 @@
 
 Here are some ideas about myself :)
 
-- 🔭 I’m currently working at **KYNDRYL | IBM Global Technology Services Inc.**
-- 🌱 My duties are **Cloud Core (PaaS) & Openshift, Kubernetes, OpenStack,cNFV / AIX-Linux-ish, Containers & DevOps-ish** 
-- 💬 Ask me about **everything I know** (:
+- 🔭 I’m currently working at **IBM Global Technology Services Inc. (aka Kyndryl Global)**
+- 🌱 My duties are **Cloud & Core (SaaS,PaaS) & Openshift, Kubernetes, OpenStack,cNFV / AIX-Linux-ish, Containers & DevOps-ish** 
+- 💬 Don't ask me about **Lies, come with the Truth like Mevlana Rumi** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **Chess**,**Extreme Sports** and **DevOps/Ansible,Bash,Linux Coding**
+- ⚡ Fun fact: **Ski-Boarding**,**Research topics of Deep-Space Science** and **Basketball via Euroleague & NBA**
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremceliker&layout=compact&theme=algolia" alt="Kerem Celiker's github stats" />
 
