@@ -15,7 +15,7 @@ Here are some ideas about myself :)
 - 💬 Don't ask me about **Lies, come with the Truth like Mevlana Rumi** (:
 - 📫 How to reach me: **https://www.linkedin.com/in/keremceliker/**
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: **Ski-Boarding**,**Research topics of Deep-Space Science** and **Basketball via Euroleague & NBA**
+- ⚡ Fun fact: **Ski-Boarding**, **Research topics of Deep-Space Science** and **Basketball via Euroleague & NBA**
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremceliker&layout=compact&theme=algolia" alt="Kerem Celiker's github stats" />
 
