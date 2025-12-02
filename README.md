@@ -11,7 +11,7 @@
       <h3>🚀 Who Am I</h3>
       <ul>
         <li>💼 <strong>Current:</strong> works Fractional, @ex-OVHcloud, @ex-DynamicYield, @ex-IBMer GTS, @ex-ZTE/Netas </b></li>
-        <li>🔭 <strong>Role:</strong> Architecting High-Scale SaaS & PaaS Solutions</li>
+        <li>🔭 <strong>Role:</strong> Architecting / Developing High-Scale SaaS & PaaS Solutions</li>
         <li>🌱 <strong>Focus:</strong> Cloud-Native, Microservices/MicroApps, AI-Driven DevOps</li>
         <li>💬 <strong>Motto:</strong> <i>"Don't ask me about Lies, come with the Truth like Mevlana Rumi"</i></li>
         <li>🏆 <strong>Legacy:</strong> 25+ Years in Full-Stack & Infrastructure</li>
