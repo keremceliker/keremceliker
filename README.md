@@ -13,7 +13,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      ### ⚡ System Identity
+### ⚡ System Identity
 ```json
 {
   "user": "Kerem Çeliker",
