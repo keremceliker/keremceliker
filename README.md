@@ -13,14 +13,17 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>  🚀 TechGrid-Stack Profile</h3>
-      <ul>
-        <li>💼 <strong>Current:</strong> Fractional CTO / Technology Leader </b></li>
-        <li>🔭 <strong>Role:</strong> Architecting High-Scale SaaS & PaaS Solutions</li>
-        <li>🌱 <strong>Focus:</strong> Kubernetes, Microservices, AI-Driven DevOps</li>
-        <li>💬 <strong>Motto:</strong> <i>"Don't ask me about Lies, come with the Truth like Mevlana Rumi"</i></li>
-        <li>🏆 <strong>Legacy:</strong> 25+ Years in Full-Stack & Infrastructure</li>
-      </ul>
+      ### ⚡ System Identity
+```json
+{
+  "user": "Kerem Çeliker",
+  "role": "Chief Technology Officer (CTO)",
+  "company": "Masterlabs Technology A.Ş.",
+  "experience": "25+ Years (Senior Level)",
+  "architecture": ["Microservices", "Serverless", "Event-Driven"],
+  "philosophy": "Don't ask me about Lies, come with the Truth.",
+  "mission": "Transforming complex infrastructure into seamless products."
+}
       <br/>
       <a href="https://linkedin.com/in/keremceliker">
         <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
