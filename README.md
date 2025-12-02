@@ -15,7 +15,7 @@
     <td width="55%" valign="top">
       <h3>🚀 Executive Profile</h3>
       <ul>
-        <li>💼 <strong>Current:</strong> CTO & Founder at <b>Masterlabs Technology A.Ş.</b></li>
+        <li>💼 <strong>Current:</strong> Fractional CTO / Technology Leader </b></li>
         <li>🔭 <strong>Role:</strong> Architecting High-Scale SaaS & PaaS Solutions</li>
         <li>🌱 <strong>Focus:</strong> Kubernetes, Microservices, AI-Driven DevOps</li>
         <li>💬 <strong>Motto:</strong> <i>"Don't ask me about Lies, come with the Truth like Mevlana Rumi"</i></li>
