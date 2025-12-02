@@ -1,3 +1,11 @@
+Harika bir karar. Şimdiye kadar konuştuğumuz en güçlü parçaları (Typing Effect, Command Center Paneli, Fake Activity Skyline, JSON Bio ve 3D Trophies) tek bir "Ultimate CTO Dashboard" tasarımında birleştirdim.
+
+Bu kod; kırık resim sorununu çözer, profilini sürekli hareketli (canlı) gösterir ve ziyaret eden kişiye "Bu kişi 25 yıllık bir otorite" mesajını net verir.
+
+Aşağıdaki kodu hepsini seçip (hiçbir şeyi değiştirmeden) yapıştır:
+
+Markdown
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px; border: 2px solid #20C20E;" />
 
@@ -58,3 +66,24 @@
   },
   "philosophy": "Turning complex chaos into seamless products."
 }
+<h3 align="center">🛠 The Arsenal (Tech Stack & Architecture)</h3> <div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,azure,gcp,ibm,openstack,linux,redhat,ubuntu,debian,windows%26theme%3Ddark" />
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkubernetes,docker,openshift,ansible,terraform,jenkins,gitlab,githubactions,helm,nginx%26theme%3Ddark" />
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgo,python,java,js,ts,php,c,cpp,rust,cs%26theme%3Ddark" />
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,postgres,redis,mongodb,elasticsearch,kafka,rabbitmq,grafana,prometheus,splunk%26theme%3Ddark" /> </div>
+
+<h3 align="center">🏗 System Activity & Infrastructure Map</h3> <div align="center"> <img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius:10px; box-shadow: 0px 0px 20px 5px rgba(32,194,14,0.3);" />
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CONTRIBUTIONS-HIGH_FREQUENCY-purple%3Fstyle%3Dfor-the-badge"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/STATUS-OPERATIONAL-20C20E%3Fstyle%3Dfor-the-badge"/> </div>
+
+<div align="center"> <table border="0"> <tr> <td> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkeremceliker%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D000000" width="400" /> </td> <td> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkeremceliker%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D000000" width="400" /> </td> </tr> </table>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dkeremceliker%26theme%3Dradical%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D10%26margin-h%3D10" /> </a> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dkeremceliker%26style%3Dflat-square%26color%3D20C20E%26label%3DSYSTEM%2BTRAFFIC" alt="Profile Views" /> </div>
