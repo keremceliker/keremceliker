@@ -35,7 +35,7 @@
     </td>
     <td width="45%" valign="center">
       <div align="center">
-        <img src="https://i.pinimg.com/originals/1c/13/f3/1c13f3fe7a6bba370007aea25fedd19c.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 15px rgba(32, 194, 14, 0.4);" />
+        <img src="https://media.giphy.com/media/Qtpq8v7QO78hNlH3bH/giphy.gif" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(32, 194, 14, 0.4);" />
         <br/><br/>
         <img src="https://img.shields.io/badge/SYSTEM-ONLINE-success?style=flat-square"/>
         <img src="https://img.shields.io/badge/INFRA-SECURE-blue?style=flat-square"/>
