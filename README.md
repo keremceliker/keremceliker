@@ -4,7 +4,7 @@
   <br/><br/>
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=750&lines=CTO+%7C+Product+Director+%7C+Solutions+Architect;Building+Architecture+%26+Products+@+OVHcloud+/+MasterLabs;25%2B+Years+Engineering+Excellence;Cloud+Native+%26+Enterprise+Transformation;Expert+in+PaymentGW,+GCP+AWS,+Azure+%26+Suse+Rancher+/+OpenShift" alt="Typing SVG" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=750&lines=CTO+%7C+Product+Director+%7C+Solutions+Architect;Building+Architecture+%26+Products+@+OVHcloud+/+MasterLabs;25%2B+Years+Engineering+Excellence;Cloud+Native+%26+Enterprise+Transformation;Expert+in+,+GCP,+AWS,+Azure+%26+Rancher+/+OpenShift" alt="Typing SVG" width="100%" />
 </a>
 </div>
 
