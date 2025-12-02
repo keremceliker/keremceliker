@@ -34,17 +34,10 @@
 
 <br/>
 
-<h3 align="center">🛠 The Arsenal (Tech Stack & Architecture)</h3>
+<h3 align="center">🛠</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,ibm,openstack,linux,redhat,ubuntu,debian,windows&theme=dark" />
+  <img src="https://github.com/keremceliker/keremceliker/blob/main/allstack.jpg" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,openshift,ansible,terraform,jenkins,gitlab,githubactions,helm,nginx&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=go,python,java,js,ts,php,c,cpp,rust,cs&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,elasticsearch,kafka,rabbitmq,grafana,prometheus,splunk&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vim,bash,git,vscode,idea,pycharm,postman,figma,arduino,raspberrypi&theme=dark" />
 </div>
 
 
