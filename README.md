@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">👨‍💻 Kerem Çeliker <span style="font-size: 15px; color: #555;">// Fractional CTO/ Full-Stack Dev.</span></h1>
+<h1 align="center">👨‍💻 Kerem Çeliker <span style="font-size: 15px; color: #555;">// Fractional CTO / Full-Stack Dev.</span></h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
