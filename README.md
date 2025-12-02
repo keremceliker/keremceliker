@@ -52,14 +52,7 @@
   <img src="https://skillicons.dev/icons?i=vim,bash,git,vscode,idea,pycharm,postman,figma,arduino,raspberrypi&theme=dark" />
 </div>
 
-<br/>
 
-<h3 align="center">🏗 Contribution Skyline</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keremceliker&bg_color=000000&color=20C20E&line=20C20E&point=ffffff&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
 
 <div align="center">
   <table border="0">
