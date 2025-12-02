@@ -3,9 +3,9 @@
   
   <br/><br/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=CTO+%7C+Product+Director+%7C+Solutions+Architect;Building Architecture+Developing+Products+aOVH+Cloud+Masterlabs+Technology+;25%2B+Years+Engineering+Excellence;Cloud+Native+%26+Enterprise+Transformation;Expert+in+IBM,+AWS,+Azure+%26+OpenShift" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=CTO+%7C+Product+Director+%7C+Solutions+Architect;Building+Architecture+%26+Products+@+Masterlabs;25%2B+Years+Engineering+Excellence;Cloud+Native+%26+Enterprise+Transformation;Expert+in+IBM,+AWS,+Azure+%26+OpenShift" alt="Typing SVG" width="100%" />
+</a>
 </div>
 
 <hr/>
