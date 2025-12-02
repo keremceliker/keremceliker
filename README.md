@@ -8,7 +8,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 Executive Profile</h3>
+      <h3>🚀 Who Am I</h3>
       <ul>
         <li>💼 <strong>Current:</strong> works Fractional, @ex-OVHcloud, @ex-DynamicYield, @ex-IBMer GTS, @ex-ZTE/Netas </b></li>
         <li>🔭 <strong>Role:</strong> Architecting High-Scale SaaS & PaaS Solutions</li>
