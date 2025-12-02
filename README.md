@@ -13,7 +13,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 Executive Profile</h3>
+      <h3>  🚀 TechGrid-Stack Profile</h3>
       <ul>
         <li>💼 <strong>Current:</strong> Fractional CTO / Technology Leader </b></li>
         <li>🔭 <strong>Role:</strong> Architecting High-Scale SaaS & PaaS Solutions</li>
