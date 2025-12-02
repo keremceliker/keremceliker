@@ -31,7 +31,7 @@
     </td>
     <td width="45%" valign="center">
       <div align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keremceliker&theme=radical" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=keremceliker&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=000000&hide_title=true" width="100%" />
       </div>
     </td>
   </tr>
@@ -54,26 +54,22 @@
 
 <br/>
 
-<h3 align="center">🏗 Contribution Skyline</h3>
+<h3 align="center">🏗 System Activity & Infrastructure Map</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keremceliker&bg_color=000000&color=20C20E&line=20C20E&point=ffffff&hide_border=true&area=true" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius:10px; box-shadow: 0px 0px 20px 5px rgba(32,194,14,0.3);" />
+  <br/>
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-20C20E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UPTIME-99.999%25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-HIGH_FREQUENCY-purple?style=for-the-badge"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=keremceliker&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=000000" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=keremceliker&theme=radical&background=000000&hide_border=true" width="400" />
-      </td>
-    </tr>
-  </table>
   
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremceliker&layout=compact&theme=radical&hide_border=true&bg_color=000000" height="180" />
+  
+  <br/> <br/>
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=keremceliker&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
@@ -81,8 +77,6 @@
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/keremceliker/keremceliker/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=keremceliker&style=flat-square&color=20C20E&label=SYSTEM+TRAFFIC" alt="Profile Views" />
 </div>
